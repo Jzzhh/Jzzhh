@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jzzhh
-- 🌱 I’m totally a freshman in computer science, and learning C
+- 🌱 I’m newcomer in computer science, and currently learning C to start my adventure in this area.
 
 <!---
 Jzzhh/Jzzhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
